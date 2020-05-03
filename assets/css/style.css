@@ -1,0 +1,25 @@
+body{
+    font-size: 14px;
+}
+nav{
+    font-family: 'Righteous', cursive;
+    height: 75px;
+}
+
+#main{
+    margin-top: 100px;
+}
+
+#winLossBox{
+    position: relative;
+    float: right;
+}
+
+#gemBox{
+    height: 100px;
+}
+
+#innerGems{
+    margin-top: 9px;
+    padding: 15px;
+}
